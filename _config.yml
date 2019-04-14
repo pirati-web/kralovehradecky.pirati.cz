@@ -57,25 +57,25 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ceska.piratska.strana/
-  profilePageName: Nějaký název FB profilu
+  profilePage: https://www.facebook.com/pirati.khk
+  profilePageName: Česká pirátská strana - Královéhradecký kraj
   appId: 1526197851008996
 
 twitter:
   loadSDK: true
-  profile: PiratskaStrana
+  profile: PiratiKhk
 
-instagram:
-  profilePage: https://www.instagram.com/pirati.cz/
+#instagram:
+#  profilePage: https://www.instagram.com/pirati.cz/
 
-gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
+#gplus:
+#  profilePage: https://plus.google.com/u/0/+piratskastrana
 
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
-  page: https://forum.pirati.cz/
+  page: https://forum.pirati.cz/viewforum.php?f=86
 
 github:
   url: https://github.com/pirati-web/kralovehradecky.pirati.cz
