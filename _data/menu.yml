@@ -10,9 +10,6 @@ top:
     icon: "fa fa-newspaper-o"
 
 main:
-  - link: /aktuality/
-    name: Aktuality
-    match: aktuality
   - link: /lide/
     name: O nás
     match: lide
@@ -32,8 +29,6 @@ bottom:
   - class: small-12 medium-4
     title: Makáme
     links:
-      - link: /aktuality/
-        name: Aktuality
       - link: /lide/
         name: Lidé
       - link: /mistni-sdruzeni/
