@@ -7,7 +7,7 @@ titles:
 category:
   - clen
 description: krajská koordinátorka # zobrazuje se v lide
-img: people/petr-polacek.jpg # zakomentuj radek dokud není fotka
+img: people/libuse-verisova.jpg # zakomentuj radek dokud není fotka
 mail:
   - libuse.verisova@pirati.cz
 mob:
