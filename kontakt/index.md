@@ -17,5 +17,5 @@ Zajímá Vás, co Piráti dělají? Ozvěte se krajské koordinátorce [Libuši 
 
 Chcete se zapojit do spolupráce s Piráty? Regitrujte se na [nalodění](https://nalodeni.pirati.cz).
 
-Financí dary můžete posílat na [dary](https://dary.pirati.cz).
+Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
 
