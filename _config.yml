@@ -18,13 +18,13 @@ administrator:
 organization:
   name: Piráti Královéhradecký kraj
   shortName: Piráti Královéhradecký kraj
-  email: example@pirati.cz
-  phone: +420 770 113 642
+  email: libuse.verisova@pirati.cz
+  phone: +420 775 977 098
   address: |
-    Na Moráni 3,
-    120 00 Praha 2
+    Masarykovo nám. 368/11,
+    500 02 Hradec Králové
   residenceImg:
-  mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
+  mapLink: https://mapy.cz/zakladni?vlastni-body&x=15.8255151&y=50.2123122&z=19&ut=KraPiCe&uc=9k0xfxYhmX&ud=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%20368%2F11%2C%20Hradec%20Kr%C3%A1lov%C3%A9%2C%20500%2002%2C%20okres%20Hradec%20Kr%C3%A1lov%C3%A9
   redmineLink: https://redmine.pirati.cz/projects
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
