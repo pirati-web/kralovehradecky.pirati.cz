@@ -1,6 +1,6 @@
 ---
 layout: contacts
-description: Pirátská strana v Králoféhradeckém kraji je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
+description: Pirátská strana v Královéhradeckém kraji je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 # Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
 # noresidence: yes
