@@ -9,7 +9,7 @@ category:
   - pks
   - pms
 description: PR Manager, kontakt pro média # zobrazuje se v lide
-img: people/petr-polacek.jpg # zakomentuj radek dokud není fotka
+img: people/PP_web_pirati.jpg # zakomentuj radek dokud není fotka
 mail:
   - petr.polacek@pirati.cz
 mob:
