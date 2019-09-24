@@ -12,7 +12,7 @@ description: PR Manager, kontakt pro média # zobrazuje se v lide
 img: people/petr-polacek.jpg # zakomentuj radek dokud není fotka
 mail:
   - petr.polacek@pirati.cz
-  mob:
+mob:
   - +420 777 647 274
 profiles:
 ---
