@@ -9,7 +9,7 @@ category:
   - pks
   - pms
 description: předseda krajského sdružení # zobrazuje se v lide
-img: people/adam-valenta.jpg # zakomentuj radek dokud není fotka
+img: people/adam_valenta.jpg.jpg # zakomentuj radek dokud není fotka
 mail:
   - adam.valenta@pirati.cz
 profiles:
