@@ -1,7 +1,7 @@
 ---
 date: 2019-11-05
 category: aktuality
-tags: "Hradec Králové", "Piráti", "KraPiCe"
+tags: "Hradec Králové Piráti KraPiCe"
 title: Nová pravidelná otevírací doba krajského kontaktního pirátského centra KraPiCe
 author: Petr Poláček
 authorId: petr.polacek    # uid nekoho z _people (nepoviné)

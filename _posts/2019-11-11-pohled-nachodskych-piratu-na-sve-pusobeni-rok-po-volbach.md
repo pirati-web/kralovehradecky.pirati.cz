@@ -1,7 +1,7 @@
 ---
 date: 2019-11-11
 category: aktuality
-tags: "Náchod", "Piráti"
+tags: "Náchod Piráti"
 title: Pohled náchodských Pirátů na své působení rok po volbách 
 author: Petr Poláček
 authorId: petr.polacek    # uid nekoho z _people (nepoviné)
