@@ -1,5 +1,5 @@
 ---
-date: 2019-10-29
+date: 2019-11-05
 category: aktuality
 tags: "Hradec Králové", "Piráti", "KraPiCe"
 title: Nová pravidelná otevírací doba krajského kontaktního pirátského centra KraPiCe
