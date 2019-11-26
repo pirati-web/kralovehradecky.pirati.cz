@@ -1,7 +1,7 @@
 ---
 date: 2019-09-19
 category: aktuality
-tags: "Krajskáschůze"
+tags: "Krajská-schůze"
 title: Královéhradečtí Piráti jednali v Rychnově nad Kněžnou 
 author: Petr Poláček
 authorId: petr.polacek    # uid nekoho z _people (nepoviné)
