@@ -1,7 +1,7 @@
 ---
 date: 2019-09-23
 category: aktuality
-tags: "Ukliďme Česko"
+tags: "Ukliďme-Česko Piráti"
 title: Piráti z Broumova “odlehčili” Stěnavě.
 author: Petr Poláček
 authorId: petr.polacek    # uid nekoho z _people (nepoviné)
