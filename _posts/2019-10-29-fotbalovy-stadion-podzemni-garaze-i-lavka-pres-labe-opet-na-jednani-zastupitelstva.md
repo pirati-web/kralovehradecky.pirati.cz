@@ -1,7 +1,7 @@
 ---
 date: 2019-10-29
 category: aktuality
-tags: "Hradec-Králové"
+tags: "Hradec-Králové Místní-organizace"
 title: Fotbalový stadion, podzemní garáže i lávka přes Labe opět na jednání zastupitelstva
 author: Petr Poláček
 authorId: petr.polacek    # uid nekoho z _people (nepoviné)
