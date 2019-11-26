@@ -1,7 +1,7 @@
 ---
 date: 2019-11-14
 category: aktuality
-tags: "KraPiCe"
+tags: "KraPiCe Olga-Richterová"
 title: Místopředsedkyně České pirátské strany Olga Richterová navštíví Hradec Králové
 author: Petr Poláček
 authorId: petr.polacek    # uid nekoho z _people (nepoviné)
