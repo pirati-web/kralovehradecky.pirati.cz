@@ -1,7 +1,7 @@
 ---
 date: 2019-10-09
 category: aktuality
-tags: "Krajské-volby Piráti Volby"
+tags: "Krajské-volby Volby"
 title: Lídrem Pirátů pro krajské volby v Královéhradeckém kraji je Pavel Bulíček
 author: Petr Poláček
 authorId: petr.polacek    # uid nekoho z _people (nepoviné)
