@@ -1,7 +1,7 @@
 ---
 date: 2019-11-22
 category: aktuality
-tags: "KraPiCe"
+tags: "KraPiCe Hradec-Králové"
 title: Pracovní návštěva Olgy Richterová v Hradci Králové
 author: Petr Poláček
 authorId: petr.polacek    # uid nekoho z _people (nepoviné)
