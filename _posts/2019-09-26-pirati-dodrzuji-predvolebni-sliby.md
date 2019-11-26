@@ -1,7 +1,7 @@
 ---
 date: 2019-09-26
 category: aktuality
-tags: "Hradec Králové"
+tags: "Hradec-Králové"
 title: Piráti dodržují předvolební sliby..!
 author: Petr Poláček
 authorId: petr.polacek    # uid nekoho z _people (nepoviné)
