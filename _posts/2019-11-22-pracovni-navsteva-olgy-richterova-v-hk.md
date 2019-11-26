@@ -18,3 +18,4 @@ Centrum duševního zdraví v Hradci Králové pak nabídlo další pohled na sp
 
 Podvečer pak patřil debatě s královéhradeckými Piráty, kde se diskutovala částečně celorepubliková strategie a částečně věci, které se našeho kraje týkají. Na závěr dne se pak za účasti veřejnosti konala otevřená diskuze, do které se na výzvu samotné Olgy museli postupně zapojit úplně všichni návštěvníci. Těch přišlo nakonec téměř třicet.
 
+Fotoalbum z návštevy nazelne [zde](https://www.facebook.com/pirati.khk/photos/?tab=album&album_id=2833653639998971).
