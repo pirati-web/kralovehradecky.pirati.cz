@@ -1,7 +1,7 @@
 ---
 date: 2019-10-08
 category: aktuality
-tags: "Ukliďme-Česko Piráti"
+tags: "Ukliďme-Česko Místní-organizace"
 title: Ukliďme Česko s Piráty pokračovalo v okolí zámečku Bischofstein v Adršpašsko-Teplických skalách
 author: Petr Poláček
 authorId: petr.polacek    # uid nekoho z _people (nepoviné)
