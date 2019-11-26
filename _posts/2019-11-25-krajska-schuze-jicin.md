@@ -1,7 +1,7 @@
 ---
 date: 2019-11-25
 category: aktuality
-tags: "Krajskáschůze"
+tags: "Krajská-schůze"
 title: Krajskou schůzi královéhradeckých Pirátů v Jičíně navštívilo i několik místních příznivců
 author: Petr Poláček
 authorId: petr.polacek    # uid nekoho z _people (nepoviné)
