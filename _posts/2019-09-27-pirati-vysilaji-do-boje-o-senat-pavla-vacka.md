@@ -1,7 +1,7 @@
 ---
 date: 2019-09-27
 category: aktuality
-tags: "Senát Volby"
+tags: "Senát Volby Pavel-Vacek"
 title: Piráti vysílají do boje o senát v Hradci Králové výraznou osobnost z oblasti školství a vzdělávání
 author: Petr Poláček
 authorId: petr.polacek    # uid nekoho z _people (nepoviné)
