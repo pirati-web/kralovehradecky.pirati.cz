@@ -7,7 +7,8 @@ titles:
 category:
   - clen
   - pms
-description: místopředseda místního sdružení Podorlicko # zobrazuje se v lide
+  - pks
+description: místopředseda krajského sdružení, místopředseda místního sdružení Podorlicko # zobrazuje se v lide
 img: people/jan-hoder.jpg # zakomentuj radek dokud není fotka
 mail:
   - jan.hoder@pirati.cz

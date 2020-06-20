@@ -6,7 +6,6 @@ titles:
   after:
 category:
   - clen
-  - pks
   - pms
 description: PR Manager, kontakt pro média # zobrazuje se v lide
 img: people/PP_web_pirati.jpg # zakomentuj radek dokud není fotka
