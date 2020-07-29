@@ -2,7 +2,7 @@
 date: 2020-07-25
 category: aktuality
 tags: "Komentář Martina Jiránka - Trutnovského rodáka"
-title: Skutek utek. Vláda nadále ignoruje cestovní ruch. Piráti chtějí podpořit strádající trh a poptávku skrz vouchery
+title: Martin Jiránek. Skutek utek. Vláda nadále ignoruje cestovní ruch. Piráti chtějí podpořit strádající trh a poptávku skrz vouchery
 author: Pavel Volk
 authorId: pavel.volk    # uid nekoho z _people (nepoviné)
 image: posts/jiranek99.jpg
@@ -21,3 +21,5 @@ Ubytovatelé tvoří z celého segmentu cestovního ruchu jen 20 procent, co s t
 Pokud bychom podporu vlády pro cestovní ruch v době jeho největší krize od války přirovnali k maturitě, tak by vláda maturitou prošla, ale se známkou tři mínus. Oba programy (malý COVID - Lázně a větší COVID - Ubytování) mají hodně chyb, nicméně mohou těžce zkoušenému cestovnímu ruchu alespoň trochu pomoci.
 
 Kdyby však vláda vyslyšela NERV, trh i nás a měla odvahu schválit a spustit propracovaný systém podpory poptávky po cestovním ruchu například od 1. října, pak by určitě nejen od nás dostala jedničku.
+
+Martin Jiránek - Trutnovský rodák
