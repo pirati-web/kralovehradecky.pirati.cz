@@ -2,14 +2,11 @@
 date: 2020-07-30
 category: aktuality
 tags: "Tomáš Eichler dálnice"
-title: Pirátský místostarosta Tomáš Eichler z Trutnova zabránil zdržení výstavby dálnice
+title: Pirátský místostarosta Tomáš Eichler z Trutnova zabránil zdržení výstavby dálnice D11 o dalšího půl roku
 author: Pavel Volk
 authorId: pavel.volk    # uid nekoho z _people (nepoviné)
 image: posts/dalnice.jpg
 ---
-
-Pirátský místostarosta Tomáš Eichler Trutnova zabránil zdržení výstavby dálnice
-D11 o dalšího půl roku.
 
 Územní rozhodnutí pro stavbu dálnice D11 dostalo zelenou na trutnovské radnici. Stažení
 posledního odvolání se totiž podepisovalo u Tomáše Eichlera v kanceláři. Ten se už předtím
