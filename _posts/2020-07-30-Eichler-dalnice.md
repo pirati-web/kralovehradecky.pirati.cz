@@ -2,24 +2,26 @@
 date: 2020-07-30
 category: aktuality
 tags: "Tomáš Eichler dálnice"
-title: Pirátský místostarosta Tomáš Eichler z Trutnova zabránil zdržení výstavby dálnice D11 o dalšího půl roku
+title: Tomáš Eichler Pirátský místostarosta z Trutnova zabránil zdržení výstavby dálnice D11 o dalšího půl roku
 author: Pavel Volk
 authorId: pavel.volk    # uid nekoho z _people (nepoviné)
 image: posts/dalnice.jpg
 ---
 
-Územní rozhodnutí pro stavbu dálnice D11 dostalo zelenou na trutnovské radnici. Stažení
+Územní rozhodnutí pro stavbu dálnice D11 dostalo zelenou na Trutnovské radnici. Stažení
 posledního odvolání se totiž podepisovalo u Tomáše Eichlera v kanceláři. Ten se už předtím
-opakovaně sešel s osobami, které ho podaly. Jelikož o nich některá média psala jako o
-stěžovatelích, rozhodl se k tomu doplnit info, které v mediální realitě zapadlo.
+opakovaně sešel s osobami, které ho podaly. 
+Jelikož o nich některá média psala jako o stěžovatelích, rozhodl se k tomu doplnit info, které v mediální realitě zapadlo.
 Oba dva pánové jsou pracovití lidé, kteří mají nějaký dlouhodobý plán a cíl. Doslova několik let se
 snažili domluvit s ŘSD na tom, aby svoje kroky sladili; to se jim přes veškerou snahu nedařilo. Několik
 měsíců předem výslovně varovali ŘSD, že jsou v téměř bezvýchodné situaci a že bez ochoty k
 jednání na straně státu nevidí jinou možnost, než se proti územnímu rozhodnutí odvolat. Nic se
 nestalo a tak se odvolali.
 
-Ani na to ŘSD nereagovalo. Bylo to nakonec město Trutnov, které převzalo iniciativu. S oběma pány
-se Tomáš Eichler opakovaně sešel a výsledkem bylo, že se rozhodli se jako projev dobré vůle svoje
+Ani na to ŘSD nereagovalo. 
+
+Bylo to nakonec město Trutnov, které převzalo iniciativu. 
+S oběma pány se Tomáš Eichler opakovaně sešel a výsledkem bylo, že se rozhodli se jako projev dobré vůle svoje
 odvolání stáhnout. Uvědomují si důležitost dálnice pro město a jeho obyvatele i to, co hrozí, pokud by
 se stavba ještě více oddalovala.
 
@@ -33,5 +35,5 @@ se u nás v Trutnově stalo, a jak tomu předejít, rádi je tu uvítáme. Dokud
 k lidem a jejich připomínkám, žádné další zákony o liniových stavbách nic nevyřeší. Již nyní jim
 Tomáš Eichler může dát tip na nejméně tři případy, kde lze důvodně předpokládat, že budou čelit při
 výkupu pozemků odporu a komplikacím. Přitom stačí jediné: být slušný, naslouchat, nepřehazovat
-problémy na někoho jiného a chovat se k lidem na druhé straně stolu jako k partnerům. Skutečně to
-není těžké! 
+problémy na někoho jiného a chovat se k lidem na druhé straně stolu jako k partnerům. 
+Skutečně to není těžké! 
