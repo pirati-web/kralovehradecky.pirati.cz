@@ -7,7 +7,7 @@ titles:
 category:
 - clenove
 - pks
-description: místopředseda krajského sdružení # zobrazuje se v lide
+description: místopředseda krajského sdružení, radní Královehradeckého kraje pro školství a sport # zobrazuje se v lide
 img: people/arnost-stepanek.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:

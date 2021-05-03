@@ -13,7 +13,7 @@ description: >-
 keywords: piráti, česká pirátská strana, svoboda, demokracie, Hradec Králové, Trutnov, Dvůr Králové nad Labem, Dobruška, Opočno, Náchod, Podorlicko
 
 administrator:
-  email: stanislav.stipl@pirati.cz, adam.valenta@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
+  email: stanislav.stipl@pirati.cz, adam.valenta@pirati.cz, pavel.volk@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
   name: Piráti Královéhradecký kraj
@@ -28,7 +28,7 @@ organization:
   redmineLink: https://redmine.pirati.cz/projects
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
-
+  
 # Nastavení zobrazení tabulky kontaktů.
 # Lze využít:
 # 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
@@ -41,10 +41,10 @@ contactSummaryItems:
     includeMoreLink: true
   - type: organizationDataBox
   - type: piratiRootWebsite
-  - type: custom
-    iconClass: fa fa-envelope
-    label: Vlastní řádek tabulky
-    body: <a href="http://example.com">link</a>
+#  - type: custom
+#    iconClass: fa fa-envelope
+#    label: Vlastní řádek tabulky
+#    body: <a href="http://example.com">link</a>
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key

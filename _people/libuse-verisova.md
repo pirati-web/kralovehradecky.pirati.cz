@@ -11,7 +11,7 @@ img: people/libuse-verisova.jpg # zakomentuj radek dokud není fotka
 mail:
   - libuse.verisova@pirati.cz
 mob:
-  - +420 775 977 O98
+  - +420 775 977 098
 profiles:
 ---
 

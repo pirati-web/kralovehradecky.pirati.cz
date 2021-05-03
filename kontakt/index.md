@@ -13,11 +13,11 @@ contentSize: default
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Rádi byste se připojili ke Královéhradeckým Pirátům? Ozvěte se krajské koordinátorce [Libuši Věříšové](https://kralovehradecky.pirati.cz/lide/libuse-verisova/).
+Rádi byste se připojili ke Královéhradeckým Pirátům? **Ozvěte se krajské koordinátorce** [Libuši Věříšové](https://lide.pirati.cz/personProfile/19/).
 
-Zajímá Vás, co Piráti připravují a jaké mají cíle? Kontaktujte krajského PR managera [Petra Poláčka](https://kralovehradecky.pirati.cz/lide/petr-polacek/).
+**Zajímá Vás**, co Piráti připravují a jaké mají cíle? **Kontaktujte** [Aleše Dohnala](mailto:ales.dohnal@pirati.cz).
 
-Chcete se zapojit do spolupráce s Piráty? Regitrujte se na [nalodění](https://nalodeni.pirati.cz).
+**Chcete se zapojit** do spolupráce s Piráty? **Regitrujte se v** [**nalodění**](https://nalodeni.pirati.cz).
 
-Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
+**Finanční dary můžete posílat** na [dary](https://dary.pirati.cz).
 

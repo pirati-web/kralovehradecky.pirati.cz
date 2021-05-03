@@ -8,7 +8,7 @@ category:
   - clenove
   - pks
   - pms
-description: předseda krajského sdružení, předseda místního sdružení Trutnovsko # zobrazuje se v lide
+description: předseda krajského sdružení, radní Královehradeckého kraje pro regionální rozvoj # zobrazuje se v lide
 img: people/adam_valenta.jpg.jpg # zakomentuj radek dokud není fotka
 mail:
   - adam.valenta@pirati.cz
