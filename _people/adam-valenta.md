@@ -7,7 +7,7 @@ titles:
 category:
   - clenove
   - pks
-  - pms
+  - radni
 description: předseda krajského sdružení, radní Královehradeckého kraje pro regionální rozvoj # zobrazuje se v lide
 img: people/adam_valenta.jpg.jpg # zakomentuj radek dokud není fotka
 mail:
