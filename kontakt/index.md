@@ -7,6 +7,11 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 contentSize: default
 # Pokud chcete aby obsah a tabulka kontaktů měly stejné proporce, můžete použít:
 # contentSize: even
+contactPersons:
+  - id: libuse.verisova
+    position: Kontaktní osoba pro veřejnost a dobrovolníky
+  - id: ales.dohnal
+    position: Kontaktní osoba pro novináře
 ---
 
 <div class="o-section-header o-section-header--indented">
