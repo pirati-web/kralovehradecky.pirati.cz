@@ -34,7 +34,7 @@ Aktuální opatření přineslo alespoň jedno rozvolnění. Je umožněna úča
 Sportu zdar! 
 
 	
-**Ondřej Frejvald**
-sekretář Okresního fotbalového svazu Rychnov n. K.
-člen výkonného výboru Královéhradeckého krajského fotbalového svazu
+**Ondřej Frejvald**  
+sekretář Okresního fotbalového svazu Rychnov n. Kněžnou  
+člen výkonného výboru Královéhradeckého krajského fotbalového svazu  
 příznivec Pirátů
