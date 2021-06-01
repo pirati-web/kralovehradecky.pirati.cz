@@ -3,7 +3,7 @@ date: 2021-06-01
 category: aktuality
 tags: "covid deti sport "
 title: Covid vs. sport dětí
-author: Pavel Volk
+author: Ondřej Frejvald
 authorId: pavel.volk    # uid nekoho z _people (nepoviné)
 image: posts/sport_I.jpg
 ---
@@ -34,7 +34,7 @@ Aktuální opatření přineslo alespoň jedno rozvolnění. Je umožněna úča
 Sportu zdar! 
 
 	
-Ondřej Frejvald
+**Ondřej Frejvald**
 sekretář Okresního fotbalového svazu Rychnov n. K.
 člen výkonného výboru Královéhradeckého krajského fotbalového svazu
 příznivec Pirátů
