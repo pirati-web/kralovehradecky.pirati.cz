@@ -35,6 +35,6 @@ Sportu zdar!
 
 	
 **Ondřej Frejvald**  
-sekretář Okresního fotbalového svazu Rychnov n. Kněžnou  
+<em>sekretář Okresního fotbalového svazu Rychnov n. Kněžnou  
 člen výkonného výboru Královéhradeckého krajského fotbalového svazu  
-příznivec Pirátů
+příznivec Pirátů  </em>  
