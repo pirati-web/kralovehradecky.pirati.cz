@@ -8,7 +8,7 @@ authorId: pavel.volk    # uid nekoho z _people (nepoviné)
 image: posts/sport_I.jpg
 ---
 
-Ve sportovním prostředí už od března pokračuje chaos a to zejména kvůli absenci výkladu protiepidemický nařízení a opatření. Mediální výstupy ministra zdravotnictví byly příliš často v rozporu s následným zněním v písemné podobě. Kromě sportovců samotných se tyto kroky přímo týkaly hlavně sportovních funkcionářů, organizátorů a v neposlední řadě rodičů dětí.
+Ve sportovním prostředí už od března pokračuje chaos a to zejména kvůli absenci výkladu protiepidemických nařízení a opatření. Mediální výstupy ministra zdravotnictví byly příliš často v rozporu s následným zněním v písemné podobě. Kromě sportovců samotných se tyto kroky přímo týkaly hlavně sportovních funkcionářů, organizátorů a v neposlední řadě rodičů dětí.
 
 Začátkem komplikací pro tělovýchovné jednoty a sportovní kluby bylo nařízení testovat zaměstnance. Ve většině případů se  jednalo o jednotlivce - správce sportovišť, kteří udržovali trávník či uklízeli halu.
 
