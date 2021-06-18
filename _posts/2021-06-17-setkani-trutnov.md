@@ -4,7 +4,7 @@ category: aktuality
 tags: "volby Bartoš Trutnov "
 title: Ivan Bartoš v Trutnově! Už 26. června
 author: Aleš Dohnal
-# authorId: pavel.volk    # uid nekoho z _people (nepoviné)
+authorId: pavel.volk    # uid nekoho z _people (nepoviné)
 image: posts/setkani-ivan-II.png
 ---
 
