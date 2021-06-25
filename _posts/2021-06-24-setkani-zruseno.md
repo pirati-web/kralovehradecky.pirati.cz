@@ -17,7 +17,7 @@ Děkujeme za pochopení.
 **Dejte, prosím, o zrušení besedy vědět svým známým, pokud jste se chystali společně.**
  
   
-Piráti Královéhradecký kraj
+Piráti Královéhradecký kraj  
 [Piráti a nezávislí Trutnov](https://www.piratitrutnov.cz)
 
  
