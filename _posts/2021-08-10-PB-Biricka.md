@@ -5,7 +5,7 @@ tags: "hradeckralove pavelbulicek ubiricky "
 title:  Projekt modernizace a dostavby Domova U Biřičky
 author: Pavel Volk
 authorId: pavel.volk    # uid nekoho z _people (nepoviné)
-image: posts/biricka.jpg
+image: posts/biricka.png
 ---
 
 
