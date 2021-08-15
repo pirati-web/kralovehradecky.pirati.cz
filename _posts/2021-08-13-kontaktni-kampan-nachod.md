@@ -5,7 +5,7 @@ tags: "kontaktnikampan volby Nachod CeskaSkalice "
 title:  Kontaktní kampaň Náchod a Česká Skalice
 # author: Pavel Volk
 # authorId: pavel.volk    # uid nekoho z _people (nepoviné)
-image: posts/nachod-cepelka-2021.jpg
+image: posts/nachod-cepelka-2021.png
 ---
 
 **Kontaktní kampaň NÁCHOD a ČESKÁ SKALICE** ⚫️⬛  
