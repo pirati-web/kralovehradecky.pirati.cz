@@ -5,7 +5,7 @@ tags: "kontaktnikampan volby Trutnov IvanBartos MartinJiranek "
 title:  Kontaktní kampaň a setkání s Ivanem Bartošem a Martinem Jiránekem v Trutnově
 # author: Pavel Volk
 # authorId: pavel.volk    # uid nekoho z _people (nepoviné)
-image: posts/kampan-TU.jpg
+image: posts/kampan-TU.png
 ---
 
 **Ve čtvrtek 12.8.** jsme doslova obsadili Trutnov společně s předsedou České pirátské strany 🏴. Ivanem Bartošem a Trutnovským poslancem Martinem Jiránekem, oba věnovali celý den našem městu.  
