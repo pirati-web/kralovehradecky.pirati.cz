@@ -5,7 +5,7 @@ tags: "volby Bartoš Trutnov "
 title:  Akce s Ivanem Bartošem v Trutnově zrušena
 author: Aleš Dohnal
 authorId: pavel.volk    # uid nekoho z _people (nepoviné)
-image: posts/IB-zruseno.jpg
+image: posts/IB-zruseno.png
 ---
 
 Vzhledem k mimořádné situaci na Moravě pozastavují Piráti a Starostové dočasně předvolební kampaň. 
