@@ -1,5 +1,5 @@
 ---
-date: 2021-08-13
+date: 2021-08-14
 category: aktuality
 tags: "kontaktnikampan volby Trutnov IvanBartos MartinJiranek "
 title:  Kontaktní kampaň a setkání s Ivanem Bartošem a Martinem Jiránekem v Trutnově
