@@ -5,7 +5,7 @@ tags: "hradeckralove ArnostStepanek Olympiada krajskyurad "
 title:  Olympiáda dětí a mládeže
 author: Pavel Volk
 authorId: pavel.volk    # uid nekoho z _people (nepoviné)
-image: posts/olympiada.jpg
+image: posts/olympiada.png
 ---
 
 Náměstek Štěpánek (vlevo) s předstihem jednal s ČOV (Filip Šuman, Jiří Kejval)  
