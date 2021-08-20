@@ -2,12 +2,12 @@
 date: 2021-08-20
 category: aktuality
 tags: "TISKOVÁ ZPRÁVA PavelBulicek nemocniceJicin"
-title: 20.8.21 došlo k předání staveniště stávajícího pavilonu A v Jičínské nemocnici.
+title: V Jičinské nemocnici vznikne nový multifunkční pavilon.
 #author: Pavel Volk
 #authorId: pavel.volk    # uid nekoho z _people (nepoviné)
 image: posts/Bulicek-nemocnice-Jicin.png
 ---
-**Kraj v jehož vedení má na starosti investice Pirátský zastupitel a náměstek hejtana Pavel Bulíček, zahájí stavební práce na novém pavilonu Jičínské nemocnice**
+**Kraj v jehož vedení má na starosti investice 1.náměstek hejtana Pavel Bulíček, zahájí stavební práce na novém pavilonu Jičínské nemocnice**
 
 V areálu jičínské nemocnice bude zanedlouho znovu slyšet lomoz stavby. Společnost Geosan Group, která vyhrála veřejnou soutěž na vybudování nového multifunkčního pavilonu, dnes od zástupců Královéhradeckého kraje převzala staveniště. Práce na dlouho očekávané investici za více jak 318 milionů korun začnou v nejbližších dnech.
 
