@@ -10,6 +10,7 @@ category:
   - radni
 description: předseda krajského sdružení, radní Královehradeckého kraje pro regionální rozvoj # zobrazuje se v lide
 img: people/adam_valenta.jpg.jpg # zakomentuj radek dokud není fotka
+heroImg: hradec-kralove.jpg
 mail:
   - adam.valenta@pirati.cz
 profiles:

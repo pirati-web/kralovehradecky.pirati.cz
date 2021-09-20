@@ -5,9 +5,10 @@ titles:
   before: 
   after:
 category:
-  - clen
+  - clenove
 description: vedoucí mediálního odboru # zobrazuje se v lide
 img: people/ales-dohnal.jpg # zakomentuj radek dokud není fotka
+heroImg: hradec-kralove.jpg
 mail:
   - ales.dohnal@pirati.cz
 mob:

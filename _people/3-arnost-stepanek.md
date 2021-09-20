@@ -9,6 +9,7 @@ category:
 - pks
 description: místopředseda krajského sdružení, náměstek hejtmana KHK, radní Královehradeckého kraje pro školství a sport # zobrazuje se v lide
 img: people/arnost-stepanek.jpg # zakomentuj radek dokud není fotka
+heroImg: hradec-kralove.jpg
 ordclenove: 2
 mail:
 - arnost.stepanek@pirati.cz
