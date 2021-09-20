@@ -1,28 +1,24 @@
 ---
 layout: contacts
-description: Pirátská strana v Královéhradeckém kraji je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
+title: Kontaktní informace
+description: Pirátská strana v Královehradeckém kraji je otevřená a ráda přivítá nové členy, dobrovolníky a odpoví na vaše dotazy
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
-# Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
-# noresidence: yes
-contentSize: default
-# Pokud chcete aby obsah a tabulka kontaktů měly stejné proporce, můžete použít:
-# contentSize: even
+noresidence: yes
 contactPersons:
-  - id: libuse.verisova
-    position: Kontaktní osoba pro veřejnost a dobrovolníky
-  - id: ales.dohnal
-    position: Kontaktní osoba pro novináře
+  - libuse.verisova
+  - ales.dohnal
 ---
+ <h1>Přidejte se k nám</h1>
 
-<div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Přidejte se</h1>
-</div>
+**Zajímá vás co děláme na osmičce, a chtěli byste se zapojit?** Neváhejte a přijďte za námi na otevřenou (on-line či off-line) schůzi. Potkáváme se pravidelně, přesná data najdete v našem <a href="{{site.calendar.page}}">kalendáři</a>. Těšíme se na viděnou.
 
-Rádi byste se připojili ke Královéhradeckým Pirátům? **Ozvěte se krajské koordinátorce** [Libuši Věříšové](https://lide.pirati.cz/personProfile/19/).
+**Komunikujeme pravidelně na Facebooku**, najdete nás jako [Piráti Královehradecký kraj](https://www.facebook.com/piratikhk/). 
 
-**Zajímá Vás**, co Piráti připravují a jaké mají cíle? **Kontaktujte** [Aleše Dohnala](mailto:ales.dohnal@pirati.cz).
+<h4>Transparenstnost</h4>
+- Odměny za veřejné funkce najdete na společném pirátském webu [nalodeni.pirati.cz/odmeny](https://nalodeni.pirati.cz/odmeny/).
+- Veškerou evidenci kontaktů a schůzek najdete na [evidence.pirati.cz](https://evidence.pirati.cz/).
 
-**Chcete se zapojit** do spolupráce s Piráty? **Regitrujte se v** [**nalodění**](https://nalodeni.pirati.cz).
+<h4>Podpořte nás!</h4>
+- Finanční dary na podporu našeho fungování můžete posílat na [dary.pirati.cz](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-kralovehradecko/), kde vyberete Jiný účel: Královehradecký kraj (nebo specifický symbol 110110).
 
-**Finanční dary můžete posílat** na [dary](https://dary.pirati.cz).
-
+- *Odesláním příspěvku s osobními údaji uzavíráte s Českou pirátskou stranou darovací smlouvu a udělujete jí souhlas ke zpracování osobních údajů v souladu se zákonem č. 101/2000 Sb. o ochraně osobních údajů za účelem zpracování a přiznání daru a zasílání informací o Pirátské straně, a to i elektronickými prostředky. Vámi uvedená data budou podle zákona 424/1991 Sb. o sdružování v politických stranách a hnutích součástí výroční finanční zprávy politické strany (částka, jméno, příjmení a datum narození nebo název a identifikační číslo právnické osoby).*

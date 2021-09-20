@@ -10,6 +10,7 @@ category:
   - pms
 description: poslanec v poslanecké sněmovně ČR, člen republikového výboru # zobrazuje se v lide
 img: people/jiranek.jpg # zakomentuj radek dokud není fotka
+heroImg: hradec-kralove.jpg
 mail:
   - martin.jiranek@pirati.cz
 profiles:

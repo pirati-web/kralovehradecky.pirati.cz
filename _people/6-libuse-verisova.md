@@ -5,9 +5,10 @@ titles:
   before: 
   after:
 category:
-  - clen
+  - clenove
 description: krajská koordinátorka # zobrazuje se v lide
 img: people/libuse-verisova.jpg # zakomentuj radek dokud není fotka
+heroImg: hradec-kralove.jpg
 mail:
   - libuse.verisova@pirati.cz
 mob:

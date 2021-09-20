@@ -10,6 +10,7 @@ category:
   - pms
 description: místopředseda krajského sdružení, místopředseda místního sdružení Náchodsko # zobrazuje se v lide
 img: people/michal-cepelka.jpg # zakomentuj radek dokud není fotka
+heroImg: hradec-kralove.jpg
 mail:
   - michal.cepelka@pirati.cz
 profiles:

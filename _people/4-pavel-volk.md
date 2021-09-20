@@ -5,10 +5,11 @@ titles:
   before:
   after:
 category:
-  - clen
+  - clenove
   - pks
 description: místopředseda krajského sdružení # zobrazuje se v lide
 img: people/pavel-volk.jpg # zakomentuj radek dokud není fotka
+heroImg: hradec-kralove.jpg
 mail:
   - pavel.volk@pirati.cz
 profiles:
