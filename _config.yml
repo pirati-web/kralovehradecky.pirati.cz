@@ -98,7 +98,7 @@ permalink: /aktuality/:title.html
 collections:
   people:
     output: true
-    permalink: /lide/:path
+    permalink: /lide/:path:output_ext
   program:
     output: true
     permalink: /volby/:path:output_ext
