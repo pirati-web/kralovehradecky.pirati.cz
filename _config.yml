@@ -47,7 +47,7 @@ calendar:
 facebook:
   loadSDK: true
   profilePage: "https://www.facebook.com/pirati.khk"
-  profilePageName: "Česká pirátská strana - Královéhradecký kraj"
+  profilePageName: "Piráti - Královéhradecký kraj"
   appId: 1526197851008996
 
 matomo:
