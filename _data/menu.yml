@@ -15,8 +15,8 @@ main:
     name: Aktuality
   - link: /lide/
     name: Lidé
-  - link: https://www.piratiastarostove.cz/kandidati/kraj/kralovehradecky/
-    name: Volby 2021  
+  - link: https://nalodeni.pirati.cz/
+    name: Nalodění  
   - link: /kontakt/
     name: Kontakt
 

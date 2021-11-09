@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 administrator:
-  email: jan.suchanek@gmail.com, stanislav.stipl@pirati.cz, adam.valenta@pirati.cz, pavel.volk@pirati.cz
+  email: jan.suchanek@gmail.com, stanislav.stipl@pirati.cz, adam.valenta@pirati.cz, pavel.volk@pirati.cz, marek.krejpsky@pirati.cz
 github:
   url: hhttps://github.com/pirati-web/kralovehradecky.pirati.cz/
   branch: master
@@ -146,4 +146,4 @@ assets:
   sources:
     - assets/js
     - assets/img
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.1/assets/img
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.4/assets/img
