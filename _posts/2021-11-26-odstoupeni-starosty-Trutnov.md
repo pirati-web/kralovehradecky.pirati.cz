@@ -5,7 +5,7 @@ tags: "Odstoupeni starosty Adamec Trutnov"
 title: ODSTOUPENÍ STAROSTY IVANA ADAMCE V TRUTNOVĚ.
 #author: Pavel Volk
 #authorId: pavel.volk    # uid nekoho z _people (nepoviné)
-image: posts/odstoupeni-Adamec-26112021.jpg
+image: posts/odstoupeni-Adamec-26112021-I.jpg
 ---
 **PIRÁTI Z TRUTNOVA ODSTOUPENÍ STAROSTY IVANA ADAMCE OCEŇUJÍ JAKO ROZUMNÝ A LOGICKÝ KROK**
 
