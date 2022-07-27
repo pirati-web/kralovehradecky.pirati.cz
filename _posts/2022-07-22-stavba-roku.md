@@ -2,7 +2,7 @@
 date: 2022-07-22
 category: aktuality
 tags: "Titul Stavba roku Královéhradeckého kraje 2022"
-title: stavba roku 
+title: Titul Stavba roku Královéhradeckého kraje 2022 
 #author: Pavel Volk
 #authorId: pavel.volk    # uid nekoho z _people (nepoviné)
 image: posts/dobrosov.JPG
