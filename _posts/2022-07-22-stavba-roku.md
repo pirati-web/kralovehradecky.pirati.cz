@@ -5,7 +5,7 @@ tags: "Titul Stavba roku Královéhradeckého kraje 2022"
 title: stavba roku 
 #author: Pavel Volk
 #authorId: pavel.volk    # uid nekoho z _people (nepoviné)
-image: posts/dobrosov.jpg
+image: posts/dobrosov.JPG
 ---
 **O prestižní titul Stavba roku Královéhradeckého kraje 2022 usiluje 19 staveb**
 
