@@ -13,7 +13,7 @@ image: posts/dobrosov.JPG
 
 Mezi přihlášenými projekty je například nová budova základní školy v Černíkovicích nebo tělocvičná hala v hradeckém Pouchově. Z dopravních staveb se o prestižní cenu uchází například nový terminál hromadné dopravy v Nové Pace nebo rekonstrukce železniční stanice v Jaroměři. Investorem pětice přihlášených staveb je Královéhradecký kraj.
 
-**„Cílem soutěže je seznámit širokou odbornou i laickou veřejnost s úrovní současného stavebnictví, architekturou a projektováním v Královéhradeckém kraji. Krajské stavby do letošního ročníku nepřihlásil kraj, ale jejich projektanti či stavitelé. Je to pro nás ale potvrzení, že tyto projekty splňují požadavky na funkčnost a odpovídají architektonickým trendům, aby se mohly ucházet o body u nezávislé odborné poroty,“ doplnil náměstek pro investice Pavel Bulíček.**
+**„Cílem soutěže je seznámit širokou odbornou i laickou veřejnost s úrovní současného stavebnictví, architekturou a projektováním v Královéhradeckém kraji. Krajské stavby do letošního ročníku nepřihlásil kraj, ale jejich projektanti či stavitelé. Je to pro nás ale potvrzení, že tyto projekty splňují požadavky na funkčnost a odpovídají architektonickým trendům, aby se mohly ucházet o body u nezávislé odborné poroty,“ doplnil náměstek za Piráty - Pavel Bulíček.**
 
 První krajskou stavbou v soutěži je nový domov pro seniory, který vznikl v areálu bývalé nemocnice v Opočně. Na stavbu v hodnotě přes 100 milionů korun získal Královéhradecký kraj dotaci od Ministerstva práce a sociálních věcí ČR ve výši přes 46 milionů korun. Kapacita nově přestavěného objektu je 47 lůžek, které budou sloužit osobám vyžadující celodenní péči. Minimálně polovina klientů budou osoby s Alzheimerovou chorobou.
 

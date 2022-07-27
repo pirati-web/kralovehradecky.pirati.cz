@@ -12,7 +12,7 @@ image: posts/demolice.jpg
 V areálu nemocnice v Rychnově nad Kněžnou začaly stavební přípravy na modernizaci a přístavbu stávajícího multioborového pavilonu. Královéhradecký kraj zde jako první odstraní skladovací budovu v blízkosti současného parkoviště. Na samotnou modernizaci aktuálně probíhá výběrové řízení s předpokládanou cenou 757 milionů korun.
 
 
-**„Před zahájením hlavních stavebních prací musí nejprve proběhnout demolice objektu, který nemocnice donedávna využívala jako sklad. Budova v minulosti sloužila také jako nemocniční lékárna. Demolice proběhne za plného provozu a neomezí nijak chod rychnovské nemocnice,“ uvedl první náměstek hejtmana pro investice Pavel Bulíček.**
+**„Před zahájením hlavních stavebních prací musí nejprve proběhnout demolice objektu, který nemocnice donedávna využívala jako sklad. Budova v minulosti sloužila také jako nemocniční lékárna. Demolice proběhne za plného provozu a neomezí nijak chod rychnovské nemocnice,“ uvedl Pirátský náměstek hejtmana pro investice Pavel Bulíček.**
 
 Odstranění budovy předchází realizaci přístavby a rekonstrukce tří podlaží stávajícího pavilonu DIGP (dětské oddělení, interna, gynekologie, porodnice). Uvolněné místo bude po odstranění skladovacího objektu sloužit pro zařízení staveniště a v budoucnu jako parkovací plocha pro osobní automobily.
 
