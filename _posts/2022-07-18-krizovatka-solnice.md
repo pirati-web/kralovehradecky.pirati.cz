@@ -1,7 +1,7 @@
 ---
 date: 2022-07-18
 category: aktuality
-tags: "Mezi Solnicí a Rychnovem začala stavba nové okružní křižovatky"
+tags: "Solnice a Rychnov stavba křižovatky"
 title: Mezi Solnicí a Rychnovem začala stavba nové okružní křižovatky 
 #author: Pavel Volk
 #authorId: pavel.volk    # uid nekoho z _people (nepoviné)
