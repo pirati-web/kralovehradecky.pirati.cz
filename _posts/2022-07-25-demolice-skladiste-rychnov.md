@@ -5,7 +5,7 @@ tags: "nemocnice Rychnov nad Kněžnou"
 title: Začaly stavební přípravy na modernizaci rychnovské nemocnice 
 #author: Pavel Volk
 #authorId: pavel.volk    # uid nekoho z _people (nepoviné)
-image: posts/demolice.JPG
+image: posts/demolice.jpg
 ---
 **Začaly stavební přípravy na modernizaci rychnovské nemocnice**
 
