@@ -5,7 +5,7 @@ tags: "nemocnice pavilon klinicke biochemie Trutnov"
 title: V Trutnově se staví nový pavilon oddělení klinické biochemie
 #author: Pavel Volk
 #authorId: pavel.volk    # uid nekoho z _people (nepoviné)
-image: posts/ON Trutnov.jpg
+image: posts/ONTrutnov.jpg
 ---
 **V Trutnově se staví nový pavilon oddělení klinické biochemie**
 
