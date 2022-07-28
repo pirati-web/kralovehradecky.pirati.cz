@@ -5,7 +5,7 @@ tags: "zimní olympiáda dětí 2023"
 title: Zimní olympiáda 2023 ve Špindlu má své logo, autorem je žák trutnovského gymnázia
 #author: Pavel Volk
 #authorId: pavel.volk    # uid nekoho z _people (nepoviné)
-image: posts/demolice.jpg
+image: posts/olympiadalogo.png
 ---
 **Zimní olympiáda 2023 ve Špindlu má své logo, autorem je žák trutnovského gymnázia**
 
