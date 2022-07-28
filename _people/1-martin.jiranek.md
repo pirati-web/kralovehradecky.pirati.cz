@@ -8,7 +8,7 @@ category:
   - clenove
   - pks
   - pms
-description: člen republikového výboru # zobrazuje se v lide
+description: člen republikového předsednictva Pirátů # zobrazuje se v lide
 img: people/jiranek.jpg # zakomentuj radek dokud není fotka
 heroImg: hradec-kralove.jpg
 mail:
